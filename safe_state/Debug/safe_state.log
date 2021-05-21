@@ -1,0 +1,5 @@
+﻿  safe_state.cpp
+D:\Eman\visual studio 2019\safe_state\safe_state\safe_state.cpp(11,9): warning C4101: 'k': unreferenced local variable
+D:\Eman\visual studio 2019\safe_state\safe_state\safe_state.cpp(90): warning C4715: 'Check_request': not all control paths return a value
+D:\Eman\visual studio 2019\safe_state\safe_state\safe_state.cpp(59): warning C4715: 'Check_safety': not all control paths return a value
+  safe_state.vcxproj -> D:\Eman\visual studio 2019\safe_state\Debug\safe_state.exe
